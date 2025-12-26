@@ -31,4 +31,4 @@ print("d:", d)
 ![WhatsApp Image 2025-12-26 at 7 08 56 PM](https://github.com/user-attachments/assets/a20fd852-803d-48f5-a08b-62ea89579502)
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
